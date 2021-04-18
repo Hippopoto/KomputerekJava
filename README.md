@@ -1,1 +1,1 @@
-# KomputerekJava Żeby działało trzeba poprosić
+ Żeby działało trzeba poprosić
