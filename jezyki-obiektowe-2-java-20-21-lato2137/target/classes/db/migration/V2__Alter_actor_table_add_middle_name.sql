@@ -1,0 +1,1 @@
+alter table actor add middle_name varchar(255);
